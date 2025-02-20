@@ -3,7 +3,7 @@
 * 集成 C/C++
 * 集成 Python
 
-## Install 安装方法
+## Install 安装方法，其中压缩包的名称后缀中含有py的为安装了python环境的VSCodium，含有C的为安装了C环境的VScodium。
 1. 下载压缩包  
 通过网盘分享的文件：VSCodium绿色版
 链接: https://pan.baidu.com/s/1pdLPPm8HioK1u-94RNMqyw 
